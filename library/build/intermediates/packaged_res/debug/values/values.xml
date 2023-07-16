@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dialog_color_1">#FDD737</color>
+    <color name="dialog_color_2">#3B5796</color>
+    <color name="main_color">#E44643</color>
+    <color name="maybe_later">#CC000000</color>
+    <style name="MyRatingBar" parent="Widget.AppCompat.RatingBar">
+        
+        <item name="colorControlNormal">#4D000000</item>
+
+        
+        <item name="colorControlActivated">@color/dialog_color_1</item>
+    </style>
+</resources>

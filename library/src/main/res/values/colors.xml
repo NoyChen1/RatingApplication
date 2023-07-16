@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dialog_color_1">#FDD737</color> //dialogColor1
+    <color name="dialog_color_2">#3B5796</color> //dialogColor2
+
+
+    <color name="maybe_later">#CC000000</color>
+    <color name="main_color">#E44643</color>
+</resources>

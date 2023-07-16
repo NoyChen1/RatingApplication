@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color dialog_color_1
+color dialog_color_2
+color main_color
+color maybe_later
+drawable five_stars_emoji
+drawable four_stars_emoji
+drawable google_play_icon
+drawable one_stars_emoji
+drawable round_back_blue
+drawable round_back_brown
+drawable round_back_while_stroke
+drawable round_back_white
+drawable star_emoji
+drawable three_stars_emoji
+drawable two_stars_emoji
+id back_LAY
+id emoji_IMG
+id emoji_VIEW
+id maybe_later_BTN
+id primary_color_VIEW
+id rate_now_BTN
+id rating_EditTxt
+id rating_bar_RB
+id second_title_LBL
+id title_LBL
+layout rate_us_dialog
+style MyRatingBar

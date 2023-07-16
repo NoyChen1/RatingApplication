@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyRatingBar" parent="Widget.AppCompat.RatingBar">
+        <!-- non selected star color -->
+        <item name="colorControlNormal">#4D000000</item>
+
+        <!-- selected star color -->
+        <item name="colorControlActivated">@color/dialog_color_1</item>
+    </style>
+
+</resources>
